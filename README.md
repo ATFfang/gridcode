@@ -23,7 +23,7 @@ Gridcode 项目基于 **国标 GBT 40087-2021 《地球空间网格编码规则�
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourname/gridcode.git
+git clone https://github.com/ATFfang/gridcode.git
 
 # 安装依赖
 pip install -r requirements.txt
